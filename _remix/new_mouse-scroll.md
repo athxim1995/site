@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Mouse scroll
+title: Mouse scroll & colour for possitive and negative values
 header: no
 categories:
   - archetypes
